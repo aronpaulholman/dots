@@ -48,3 +48,17 @@
 *.url-launcher:			/usr/bin/luakit
 *.matcher.button:		3
 *.matcher.rend.0:		fg9
+
+! rofi settings
+rofi.color-enabled:		true
+rofi.color-window:		#ffffff, #062228, #ffffff
+rofi.color-normal:		#ffffff, #425357, #ffffff, #ffffff, #94a9d9
+rofi.color-active:		#ffffff, #425357, #ffffff, #ffffff, #94a9d9
+rofi.color-urgent:		#ffffff, #425357, #ffffff, #ffffff, #94a9d9
+rofi.height: 10
+rofi.width: 20
+rofi.padding: 15 
+rofi.separator-style: none
+rofi.hide-scrollbar: true
+rofi.lines: 10
+rofi.line-padding: 4
